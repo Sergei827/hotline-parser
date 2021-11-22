@@ -1,0 +1,12 @@
+
+
+.price-table{
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+.price-table-ceil{
+    border: 1px solid #000;
+    padding: 10px;
+}
